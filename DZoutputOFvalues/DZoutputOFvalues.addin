@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\DZoutputOFvalues.dll"</Assembly>
+		<AddInId>85B18C5F-952A-4654-8EBF-8629D2170198</AddInId>
+		<FullClassName>DZoutputOFvalues.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 4.1 Вывод Значений</Text>
+	</AddIn>
+</RevitAddIns>
